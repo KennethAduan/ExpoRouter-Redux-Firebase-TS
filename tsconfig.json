@@ -12,7 +12,8 @@
         "types/*",
         "utils/*",
         "services/*",
-        "app/screens/*"
+        "app/screens/*",
+        "styles/*"
       ],
       "@firebase/auth": ["./node_modules/@firebase/auth/dist/index.rn.d.ts"]
     }

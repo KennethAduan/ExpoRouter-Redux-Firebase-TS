@@ -14,7 +14,7 @@ const initialState: userState = {
   userId: "",
   userEmail: "",
   userPassword: "",
-  userFirstName: "",
+  userFirstName: "Sample",
   userLastName: "",
   userGender: "",
   userProfile: "defualt",

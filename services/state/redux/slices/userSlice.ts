@@ -11,7 +11,7 @@ interface userState {
 }
 
 const initialState: userState = {
-  userId: "",
+  userId: "123",
   userEmail: "",
   userPassword: "",
   userFirstName: "Sample",
